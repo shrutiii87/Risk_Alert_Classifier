@@ -1,5 +1,8 @@
 # 🎯 Risk Alert Classifier
 
+<img width="1200" height="500" alt="665135583-fbdfeeb8-a169-4464-bcbc-cf0bc29eb3f3" src="https://github.com/user-attachments/assets/9ff5b073-b88a-4a16-a021-088400edef9e" />
+
+
 ---
 
 this project is to evaluate understanding of advanced supervised learning **classification** techniques, with a strong focus on imbalanced classification, resampling strategies (Under-Sampling, Over-Sampling, SMOTE, ADASYN), model generalization, hyperparameter tuning, and tree-based classification algorithms. Students will learn how to control overfitting, handle minority classes, and compare linear vs non-linear classifiers using real-world customer credit-risk data.
@@ -8,6 +11,7 @@ this project is to evaluate understanding of advanced supervised learning **clas
 
 ## 📂 Project Workflow
 
+<img width="1200" height="900" alt="665142527-c85b3721-7b02-4c4c-ae50-d0fab08ddabe" src="https://github.com/user-attachments/assets/e2314ef2-7eb7-4454-b403-f913cb2ab250" />
 
 ---
 
@@ -88,6 +92,11 @@ Your manager asks you to build a baseline classifier, evaluate it with confusion
 
 ## 🧠 Part B : Dataset Understanding & Preparation
 
+<img width="1200" height="500" alt="665135607-4a25a3d2-1aba-4553-a5fa-4470d1654d11" src="https://github.com/user-attachments/assets/d2f80372-c734-4c69-911b-177705863893" />
+
+
+---
+
 ### 📋 Dataset Overview
 
 ```python
@@ -146,6 +155,11 @@ X_test[numeric_columns]  = imputer.transform(X_test[numeric_columns])
 
 ## 📊 Part C : Baseline Classification Model
 
+<img width="1200" height="500" alt="665135641-21418fab-697d-4205-bee0-dc7ac83bfe33" src="https://github.com/user-attachments/assets/7fe7500a-8943-437e-9494-0397ce82d140" />
+
+
+---
+
 ### 🔟 Implement Logistic Regression as a baseline model
 
 ```python
@@ -199,6 +213,11 @@ print("Type-II Error (False Negative):", FN)
 
 ## ⚖️ Part D : Handling Imbalanced Data
 
+<img width="1200" height="500" alt="665135657-06a866a4-584a-49aa-b64e-9c5f249395d8" src="https://github.com/user-attachments/assets/884c5e48-8647-447c-9c4d-fdbcd65be86f" />
+
+
+---
+
 ### 1️⃣3️⃣ Demonstrate the impact of class imbalance on model performance
 
 ```python
@@ -243,6 +262,11 @@ adasyn = ADASYN(random_state=42)
 
 
 ## 🌲 Part E : Tree-Based Classification Models
+
+<img width="1200" height="500" alt="665135685-d4cef2c5-ebc8-42c8-8282-6b131a70e277" src="https://github.com/user-attachments/assets/b16f021f-3ca2-4179-ab88-b9b4293ced1e" />
+
+
+---
 
 ### 1️⃣6️⃣ Implement Decision Tree Classifier
 
@@ -297,6 +321,11 @@ rf_model.fit(X_train_scaled, y_train)
 
 ## 🔧 Part F : Hyperparameter Tuning
 
+<img width="1200" height="500" alt="665135721-47ce1594-7516-412e-8e6e-b723e2194678" src="https://github.com/user-attachments/assets/96704769-8ba7-4cb0-b6c6-703f0f85e642" />
+
+
+---
+
 ### 2️⃣0️⃣ Apply Randomized Search CV to optimize Decision Tree and Random Forest hyperparameters
 
 ```python
@@ -346,6 +375,11 @@ grid = GridSearchCV(RandomForestClassifier(n_estimators=100, random_state=42),
 
 
 ## 📈 Part G : Model Evaluation & ROC Analysis
+
+<img width="1200" height="500" alt="665135790-9ef72594-ceda-4da8-935b-da674c537a0a" src="https://github.com/user-attachments/assets/e32e18af-56d8-4b59-ae6d-d4b9fe7678a4" />
+
+
+---
 
 ### 2️⃣3️⃣ Plot and interpret the ROC Curve for all models
 
