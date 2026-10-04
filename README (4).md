@@ -1,15 +1,5 @@
 # 🎯 Risk Alert Classifier
 
-<!-- Replace the image URL below with your own title banner screenshot -->
-
-## 🎯 Risk Alert Classifier
-
-<img width="1200" height="400" alt="title" src="https://github.com/user-attachments/assets/YOUR-TITLE-BANNER-IMAGE" />
-
-## 🎯 Objective
-
-<img width="800" height="450" alt="objective" src="https://github.com/user-attachments/assets/YOUR-OBJECTIVE-IMAGE" />
-
 ---
 
 this project is to evaluate understanding of advanced supervised learning **classification** techniques, with a strong focus on imbalanced classification, resampling strategies (Under-Sampling, Over-Sampling, SMOTE, ADASYN), model generalization, hyperparameter tuning, and tree-based classification algorithms. Students will learn how to control overfitting, handle minority classes, and compare linear vs non-linear classifiers using real-world customer credit-risk data.
@@ -18,7 +8,6 @@ this project is to evaluate understanding of advanced supervised learning **clas
 
 ## 📂 Project Workflow
 
-<img width="800" height="450" alt="workflow" src="https://github.com/user-attachments/assets/YOUR-WORKFLOW-IMAGE" />
 
 ---
 
@@ -30,10 +19,6 @@ Your manager asks you to build a baseline classifier, evaluate it with confusion
 
 ---
 
-
-<img width="800" height="368" alt="problem" src="https://github.com/user-attachments/assets/YOUR-PROBLEM-IMAGE" />
-
----
 
 # 📂 Project Files
 
