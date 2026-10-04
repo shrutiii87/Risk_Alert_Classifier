@@ -47,7 +47,6 @@ Your manager asks you to build a baseline classifier, evaluate it with confusion
 <img src="https://img.shields.io/badge/Baseline-Logistic%20Regression-059669?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Resampling-Under%20%7C%20Over%20%7C%20SMOTE%20%7C%20ADASYN-16A34A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tree%20Models-Decision%20Tree%20%7C%20Random%20Forest-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tuning-RandomizedSearchCV%20%7C%20GridSearchCV-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Evaluation-ROC%20%7C%20AUC%20%7C%20F1-DC2626?style=for-the-badge"/>
 
 </div>
