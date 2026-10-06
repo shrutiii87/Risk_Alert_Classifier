@@ -32,7 +32,13 @@ Your manager asks you to build a baseline classifier, evaluate it with confusion
 | 📊 `Risk_Alert_Classifier_Dataset_4600 - Risk_Alert_Classifier_Dataset_4600.csv.csv` | Raw customer risk dataset (4,600 records) |
 | 📘 `README.md` | Project documentation and workflow guide |
 | 📂 `Visuals` | Folder of the output visuals/graphs |
-| 📄 `Part A :- Conceptual_Foundation.pdf` | Project documentation of part :- A (Theory) |
+| 📄 `Part A :- Conceptual_Foundation.pdf` | Project documentation of part :- A (Theory) 
+| 📋 `Part H Final_Analysis_&_Reporting (Report).pdf` | Report documentation of part :- H (Report) |
+| 🖥️ `app.py` | Main Streamlit application for the live deployment |
+| ⚙️ `model.py.py` | Model file containing the trained prediction logic |
+| 📦 `requirements.txt` | Required Python libraries and dependencies for the project |
+
+
 
 ---
 
