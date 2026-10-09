@@ -17,9 +17,9 @@ this project is to evaluate understanding of advanced supervised learning **clas
 
 ## 📄 Problem Statement
 
-You are hired as a **Junior Data Scientist** working on a bank's credit-risk analytics team. The company holds a **customer risk dataset** of 4,600 customers and wants a **risk alert classifier** that can predict whether a customer is **risky (1)** or **safe (0)** from their demographic, credit-behaviour and transaction attributes.
+working on a bank's credit-risk analytics team. The company holds a **customer risk dataset** of 4,600 customers and wants a **risk alert classifier** that can predict whether a customer is **risky (1)** or **safe (0)** from their demographic, credit-behaviour and transaction attributes.
 
-Your manager asks you to build a baseline classifier, evaluate it with confusion-matrix metrics, handle the class imbalance problem with resampling techniques, compare tree-based models, tune the best model with Randomized and Grid Search, and deliver a final recommendation that **minimizes false negatives** — because missing a risky customer is the costliest mistake for the business.
+task to build a baseline classifier, evaluate it with confusion-matrix metrics, handle the class imbalance problem with resampling techniques, compare tree-based models, tune the best model with Randomized and Grid Search, and deliver a final recommendation that **minimizes false negatives** — because missing a risky customer is the costliest mistake for the business.
 
 ---
 
