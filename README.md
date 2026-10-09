@@ -23,6 +23,14 @@ task to build a baseline classifier, evaluate it with confusion-matrix metrics, 
 
 ---
 
+## 🌐 View on streamlit :- 
+
+<img width="800" height="450" alt="ezgif-8c90b305eb5586e0" src="https://github.com/user-attachments/assets/1fb835e3-bb5c-4ffa-9b35-a4602e389965" />
+
+
+
+---
+
 
 # 📂 Project Files
 
