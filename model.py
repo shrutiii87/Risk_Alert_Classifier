@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
-TARGET = "risk_status"
+TARGET = "risk_status" 
 
 DATASET_PATH = (
     Path(__file__).resolve().parent
