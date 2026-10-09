@@ -5,7 +5,7 @@ from pathlib import Path
 
 from model import load_or_train_model, DATASET_PATH
 
-
+ 
 # ==================================================
 # PAGE CONFIGURATION
 # ==================================================
